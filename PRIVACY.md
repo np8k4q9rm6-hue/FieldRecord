@@ -1,11 +1,11 @@
-# Evidence Log Pro – Privacy Policy
+# FieldRecord – Privacy Policy
 
-Last updated: {{01/28/2026}}
+Last updated: {{DATE}}
 
-CodePeregrine LLC ("we", "our") values your privacy. Evidence Log Pro is designed to operate entirely on-device. We do not collect, store, or transmit your data to our servers. There are no analytics or cloud sync services involved.
+CodePeregrine LLC ("we", "our") values your privacy. FieldRecord is designed to operate entirely on-device. We do not collect, store, or transmit your data to our servers. There are no analytics or cloud sync services involved.
 
 ## Introduction
-This privacy policy explains how your data is handled when using Evidence Log Pro. Our app operates fully on-device, ensuring your information stays private and under your control.
+This privacy policy explains how your data is handled when using FieldRecord. Our app operates fully on-device, ensuring your information stays private and under your control.
 
 ## Data We Do Not Collect
 - No account creation
@@ -15,9 +15,9 @@ This privacy policy explains how your data is handled when using Evidence Log Pr
 - No third-party advertising SDKs
 
 ## Data Stored On Your Device
-- Evidence files you import or create (photos, videos, audio, documents, notes)
+- item files you import or create (photos, videos, audio, documents, notes)
 - Metadata you create (titles, notes, tags, case info)
-- Device metadata saved into evidence (device model, OS version)
+- Device metadata saved into item (device model, OS version)
 - Integrity hashes (SHA-256) and file sizes
 - Optional GPS coordinates if you choose to include location
 
@@ -30,7 +30,7 @@ If you use the system share sheet, email, or other export features, your data ma
 The app uses Apple frameworks (e.g., SwiftUI, SwiftData, VisionKit, AVFoundation). We do not integrate third-party analytics or advertising.
 
 ## Security
-- Evidence files can be protected using iOS file protection (enabled by default) and are excluded from iCloud backups.
+- item files can be protected using iOS file protection (enabled by default) and are excluded from iCloud backups.
 - You can enable biometric lock for app access (if supported by your device).
 - Always follow your organization’s policies for handling sensitive data.
 
@@ -43,4 +43,4 @@ We may update this policy from time to time. Changes will be posted in the repos
 ## Contact
 For privacy questions, contact: [Codeperegrine@proton.me](mailto:Codeperegrine@proton.me)
 
-Repository: [https://github.com/np8k4q9rm6-hue/EvidenceLogPro](https://github.com/np8k4q9rm6-hue/EvidenceLogPro)
+Repository: [https://github.com/np8k4q9rm6-hue/itemLogPro](https://github.com/np8k4q9rm6-hue/itemLogPro)
