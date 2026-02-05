@@ -1,6 +1,6 @@
 # FieldRecord – Privacy Policy
 
-Last updated: {{DATE}}
+Last updated: 02/05/2026
 
 CodePeregrine LLC ("we", "our") values your privacy. FieldRecord is designed to operate entirely on-device. We do not collect, store, or transmit your data to our servers. There are no analytics or cloud sync services involved.
 
