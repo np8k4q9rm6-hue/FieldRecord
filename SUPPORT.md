@@ -8,8 +8,8 @@ FieldRecord is designed for on‑device item management with privacy and chain�
 ## Getting Help
 - **In-app:** Settings → Support  
 - **Online:** GitHub repository  
-  - Issues: [https://github.com/np8k4q9rm6-hue/itemLogPro/issues](https://github.com/np8k4q9rm6-hue/fieldrecord/issues)  
-  - Security Policy: [https://github.com/np8k4q9rm6-hue/itemLogPro/blob/main/SECURITY.md](https://github.com/np8k4q9rm6-hue/fieldrecord/blob/main/SECURITY.md)
+  - Issues: [https://github.com/np8k4q9rm6-hue/fieldrecord/issues](https://github.com/np8k4q9rm6-hue/fieldrecord/issues)  
+  - Security Policy: [https://github.com/np8k4q9rm6-hue/fieldrecord/blob/main/SECURITY.md](https://github.com/np8k4q9rm6-hue/fieldrecord/blob/main/SECURITY.md)
 
 ## Reporting Issues
 - Open a GitHub issue including steps to reproduce, expected vs. actual behavior, and device/iOS version.  
