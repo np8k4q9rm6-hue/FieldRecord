@@ -1,14 +1,15 @@
-# Evidence Log Pro – Security Policy
+# FieldRecord – Security Policy
 
 CodePeregrine LLC takes security seriously. This policy describes how to report vulnerabilities responsibly.
 
 ## Scope
-- Evidence Log Pro iOS app
+- FieldRecord - Secure Field Notes iOS app
 - This repository and related tooling
 
 ## Reporting a Vulnerability
-- Create a private security advisory: https://github.com/np8k4q9rm6-hue/EvidenceLogPro/security/advisories/new
-- Or email: [Codeperegrine@proton.me](mailto:Codeperegrine@proton.me)
+- Email: [Codeperegrine@proton.me](mailto:Codeperegrine@proton.me)
+
+We prefer email-only reporting. GitHub issues/advisories are not monitored for security reports.
 
 Please do not disclose vulnerabilities publicly until we have had a reasonable opportunity to investigate and release a fix.
 
@@ -32,4 +33,4 @@ If you prefer encrypted email, please request our PGP key via email.
 ## Versioning
 This document may be updated over time. See repository history for changes.
 
-Repository: https://github.com/np8k4q9rm6-hue/EvidenceLogPro
+Repository: https://github.com/np8k4q9rm6-hue/FieldRecord
