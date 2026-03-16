@@ -31,6 +31,22 @@ Subscriptions are processed by Apple. We do not receive your payment information
 ## Third-Party Services
 FieldRecord uses Apple frameworks (e.g., StoreKit, MapKit, AVFoundation). These operate under Apple’s privacy policies.
 
+## When you participate in our referral program:
+- We generate a unique referral code for you (stored locally on your device)
+- We create an anonymous User ID (UUID) for tracking purposes
+- When you email us for verification, we receive:
+  - Your referral code
+  - Your anonymous User ID
+  - Number of credits you've earned
+  - The code you redeemed (if applicable)
+
+We do NOT collect:
+- Your name or email (unless you send it to us)
+- Any personal information
+- Data is stored locally on your device only
+
+You can request deletion of your referral data by contacting us.
+
 ## Contact
 For privacy questions or requests, open an issue here:
 https://github.com/np8k4q9rm6-hue/FieldRecord/issues
